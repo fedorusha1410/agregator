@@ -1,0 +1,13 @@
+﻿{
+  "profiles": {
+    "TestSource.WebApi": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "applicationUrl": "http://localhost:6001",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Local"
+      },
+      "launchUrl": "http://localhost:6001/api"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "profiles": {
+    "FlightAgregator.WebApi": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "applicationUrl": "http://localhost:5001",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Local"
+      },
+      "launchUrl": "http://localhost:5001/swagger"
+    }
+  }
+}

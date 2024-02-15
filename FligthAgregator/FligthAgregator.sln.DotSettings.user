@@ -1,0 +1,16 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3b0713a3_002D03c9_002D426b_002D81f4_002Dd386c1a07040/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Handle_ReturnsSortedFlightList" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::606890E2-0C60-4766-B277-D4756A913723::net8.0::Application.Tests.SearchFlightsCommandHandlerTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a8907539_002D01dc_002D49e3_002D9177_002D0fe93c30fea9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetFlights_Returns_Flights" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::E11A079A-FC59-4C82-AB0C-E752C5E547B9::net8.0::Infrastructure.Tests.ApiAdapterTests.GetFlights_Returns_Flights&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::606890E2-0C60-4766-B277-D4756A913723::net8.0::Application.Tests.SearchFlightsCommandHandlerTests.Handle_Returns_Flights_When_Cache_Not_Expired&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::606890E2-0C60-4766-B277-D4756A913723::net8.0::Application.Tests.SearchFlightsCommandHandlerTests.Handle_Returns_Flights_From_Adapter_When_Cache_Expired&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::E11A079A-FC59-4C82-AB0C-E752C5E547B9::net8.0::Infrastructure.Tests.ApiAdapterTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::606890E2-0C60-4766-B277-D4756A913723::net8.0::Application.Tests.SearchFlightsCommandHandlerTests.Handle_ReturnsSortedFlightList&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:Boolean x:Key="/Default/UserDictionary/Words/=Fligths/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>
