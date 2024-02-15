@@ -1,6 +1,6 @@
 FlightAgregator:
 The Flight Aggregator API is a service that allows gathering information about available flight tickets from various sources,
-performing data filtering and sorting. This service is built on a clean architecture, utilizing Mediator and CQRS patterns.
+performing data filtering and sorting. This service is built on a clean architecture, utilizing Mediator and CQRS patterns, using .NET 8.
 
 Test Source:
 The data source includes a test dataset consisting of flight information from two airlines.
